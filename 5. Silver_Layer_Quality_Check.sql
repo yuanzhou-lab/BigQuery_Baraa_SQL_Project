@@ -1,5 +1,5 @@
 /*  ---Data with Baraa SQL Full Course Practice Project---
-          ---Script: Bronze Layer Quality Check---
+          ---Script: Silver Layer Quality Check---
 
 >>>Purpose:
 This Query does the quality check for the Silver Layer Tables, after loading data, to make sure everything is working as intended.
