@@ -9,7 +9,7 @@ Google Gemini AI
 :wave: Although Baraa uses SQL Server for his whole instruction, I opted Google for my practise to understand mainstream DBMS better (BigQuery is an overkill for this project though:grinning:).  Using Gemini along the way also showed me inspiring alternative ways of organising my query.
 
 ## Contents:
-0. The project was broken down into **three** stages:
+The project was broken down into **three** stages:
    - Data Warehousing
    - Exploratory Data Analysis (EDA)
    - 'Advanced' Data Analytics
