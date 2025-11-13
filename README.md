@@ -6,7 +6,7 @@ This query documents my writing of the practice project in the full SQL course o
 ## System & Tools:
 Google Cloud BigQuery  
 Google Gemini AI  
-:wave: Although Baraa uses SQL Server for his whole instruction, I opted Google for my practise to understand mainstream DBMS better (BigQuery is an overkill for this project though:grinning:).  Using Gemini along the way also showed me inspiring alternative ways of organising my query.
+:wave: Although Baraa uses SQL Server for his whole instruction, I opted for Google Cloud to do this practise to understand mainstream DBMS better (BigQuery is an overkill for this project though:grinning:).  Using Gemini along the way also showed me inspiring alternative ways of organising my query.
 
 ## Contents:
 The project was broken down into **three** stages:
