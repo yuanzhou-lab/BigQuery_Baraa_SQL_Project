@@ -15,7 +15,7 @@ Google Cloud BigQuery
 3. Data Standardization & Consistency.
 
 >>>Coverage:
-All six tables in the Bronze Layer.
+All six tables in the Silver Layer.
 
 >>>Notes:
 1. Although the project is under instruction from Baraa's data and guidance, the running system is different on my implemention: from SQL server to BigQuery. Thus, part of the language used is different from the original one.
