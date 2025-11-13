@@ -9,14 +9,14 @@ Google Gemini AI
 :wave: Although Baraa uses SQL Server for his whole instruction, I opted Google for my practise to understand mainstream DBMS better (BigQuery is an overkill for this project though:grinning:).  Using Gemini along the way also showed me inspiring alternative ways of organising my query.
 
 ## Contents:
-1. The project was broken down into **three** stages:
+0. The project was broken down into **three** stages:
    - Data Warehousing
    - Exploratory Data Analysis (EDA)
    - 'Advanced' Data Analytics
    The project archetecture is shown in the following picture:
    <img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/27d426cc-9200-4868-aa85-58ed852b8e51" />
 
-2. Data Warehousing Stage
+1. Data Warehousing Stage
   This is the most bulky part of the project. Corresponding Queries are from '**0.Bronze_Layer_Insert_Data.sql**' to '**7.Gold_Layer_Quality_Check.sql**'.
   The raw data came in csv. files downloaded from Baraa's website, with the following relationship:
   <img width="1522" height="861" alt="data_integration" src="https://github.com/user-attachments/assets/11e30aea-c793-4f5d-8ce6-90739f9ab33c" />
@@ -32,11 +32,11 @@ Google Gemini AI
   
   With this, the project goes on to its analysis stage.
 
-3. Exploratory Data Analysis Stage
+2. Exploratory Data Analysis Stage
   This stage corresponds to the query '**8. Exploratory_Data_Analysis(EDA).sql**'.
   The content of the analysis is shown together in the next note.
 
-4. 'Advanced' Data Analytics Stage
+3. 'Advanced' Data Analytics Stage
   This stage corresponds to the query '**9. Advanced_Data_Analytics.sql**'.
   The content, together with the EDA, is shown in the following image:
   <img width="1999" height="897" alt="data_analysis" src="https://github.com/user-attachments/assets/5a79a646-ed1c-4187-871d-2975197edd9d" />
